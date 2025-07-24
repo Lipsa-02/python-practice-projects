@@ -1,0 +1,13 @@
+import aop as a,icici as ic,Mathsinfor as mi
+a.add(18,34)
+a.sub(400,230)
+a.mul(21,14)
+a.div(165,5)
+print("--*--"*50)
+print("Bank Name=",ic.bname)
+print("Bank Address=",ic.addr)
+ic.simpleint()
+print("--*--"*50)
+print("value of pi=",mi.PI)
+print("value of E=",mi.E)
+print("bank name is=",mi.bname)
