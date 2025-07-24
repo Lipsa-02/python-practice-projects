@@ -1,0 +1,5 @@
+(10.23, 'Rossum', 45.67, True, (2+3j))
+(10.23, 'Rossum', 45.67, True, (2+3j))
+[10.23, 'Rossum', 45.67, True, (2+3j)]
+{True, 'Rossum', 10.23, (2+3j), 45.67}
+{10: 'python', 20: 'Rossum', 30: 'van', 40: 'Guido'}
